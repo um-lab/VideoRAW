@@ -1,1 +1,1 @@
-# DC-ControlNet
+# Reconstructing High Quality Raw Video using Temporal Affinity and Diffusion Prior
